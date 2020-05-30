@@ -69,7 +69,6 @@ p {
   margin: 0;
   padding: 0;
 }
-/* ROOT */
 :root {
   --head-font: "Montserrat", sans-serif;
   --description-font: "Roboto", sans-serif;
@@ -78,7 +77,6 @@ p {
   --description-color: #666666;
 }
 @media (min-width: 320px) {
-  /* HEADER */
   .header {
     min-height: 540px;
     padding-top: 20px;
@@ -162,7 +160,6 @@ p {
     border-radius: 20px;
     color: #ffffff;
   }
-  /* MAIN */
   main {
     padding-top: 66px;
   }
@@ -177,7 +174,6 @@ p {
     letter-spacing: -0.5px;
     color: var(--head-color);
   }
-  /* LIST */
   .partners-list {
     margin-bottom: 26px;
   }
